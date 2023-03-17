@@ -16,7 +16,7 @@ const Feed = () => (
         New <span style={{color: '#F31503'}}>videos</span>
       </Typography>
 
-      <Videos/> // create Videos.jsx component
+      <Videos/>
     </Box>
     </Stack>
 )
