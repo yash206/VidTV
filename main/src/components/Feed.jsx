@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Box, Stack, Typography } from '@mui/material'
 import { Sidebar } from '.';
+import Videos from './Videos';
 
 
 const Feed = () => (
